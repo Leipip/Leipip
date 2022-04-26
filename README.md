@@ -1,6 +1,6 @@
 ### Hello 🌡
 
-- 🔍 I’m currently working on private proj..
+- 🔍 I’m currently working on a private react-native project
 - ⚡ Fun fact: I've recently graduated with a degree in Computer Engineering  
 <!--
 **leightonoff/leightonoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
