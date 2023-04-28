@@ -1,6 +1,4 @@
-### Hello
-
- ⚡Working on transitioning from .js to .ts⚡
+Trying to catch ⚡ in a bottle
 <!--
 **leightonoff/leightonoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
